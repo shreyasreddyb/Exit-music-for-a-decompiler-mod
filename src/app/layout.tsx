@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Clarity',
+  title: 'Exit Music for a Decompiler',
   description: 'Neural Decompiler & Binary Analysis Tool',
 };
 
